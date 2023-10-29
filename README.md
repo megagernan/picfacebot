@@ -5,6 +5,8 @@ This is a Telegram bot that applies face swapping to the provided images. It use
 
 ## Getting Started
 ### Setting Up
+Prerequisites
+Python 3.10
 
 1. Clone this repository.
 ```bash
